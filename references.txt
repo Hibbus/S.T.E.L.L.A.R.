@@ -1,0 +1,21 @@
+(Stellar orbital information)
+Gillessen, S., Plewa, P. M., Eisenhauer, F., Sari, R., Waisberg, I., Habibi, M., Pfuhl, O., George, E., Dexter, J., Fellenberg, S. von, Ott, T., & Genzel, R. (2017). An update on monitoring stellar orbits in the Galactic Center. The Astrophysical Journal, 837(1), 30. https://doi.org/10.3847/1538-4357/aa5c41
+
+(mass of the sun in kg)
+Williams, D. R. (n.d.). Sun fact sheet. NASA. 	https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html
+
+(Universal gravitational constant)
+Morrison, D., Fraknoi, A., & Wolff, S. (2022). Some Useful Constants from Astronomy. In Astronomy (2nd ed.). essay, OpenStax. Retrieved May 5, 2024, from https://openstax.org/books/astronomy-2e/pages/e-some-useful-constants-for-astronomy
+
+(Distance of Sagittarius A* to the Earth)
+Admin. (2023, September 5). Sagittarius A. Constellation Guide. https://www.constellation-guide.com/sagittarius-a/
+
+(Precise value for solar masses)
+Williams, D. R. (n.d.). Sun fact sheet. NASA. https://nssdc.gsfc.nasa.gov/planetary/factsheet/sunfact.html
+
+(Method for calculating error propagation)
+Department of Physics & Astronomy. (n.d.). Managing errors and uncertainty. University of Pennsylvania. https://www.physics.upenn.edu/sites/default/files/Managing Errors and Uncertainty.pdf
+
+(idea for using seekg command as well as ios::cur)
+Input/output with files. cplusplus.com. (n.d.). https://cplusplus.com/doc/tutorial/files/ 
+
