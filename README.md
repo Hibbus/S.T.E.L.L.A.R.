@@ -1,6 +1,8 @@
 Hello all users!
 	Thank you for using S.T.E.L.L.A.R.! S.T.E.L.L.A.R. is an abbreviation of 
-Supermassive black hole Terminal-based mass Estimator through Local Luminary Apparent Revolutions.  The purpose of this program is to permit users to calculate the mass of Sagittarius A* using many stars. This modular program uses multiple files to aid in the working of the file.
+Supermassive black hole Terminal-based mass Estimator through Local Luminary Apparent Revolutions.  The purpose of this program is to permit users to calculate the mass of Sagittarius A* using many stars. This modular program uses multiple files to achieve its goal.
+
+<img width="975" height="470" alt="image" src="https://github.com/user-attachments/assets/791c4278-a590-46fb-aad6-a49ee77bf170" />
 
 This program relies on the use of Kepler’s third law. Kepler’s third law is a way of describing the orbit of a smaller body around a parent body. As it turns out, this is greatly beneficial. Since supermassive black holes, such as Sagittarius A* at the center of the Milky-Way galaxy, are extremely hard to directly observe, it is easier to observe the orbits of some nearby stars and their properties as they orbit the black hole. 
 
